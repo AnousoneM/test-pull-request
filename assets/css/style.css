@@ -1,3 +1,9 @@
 body {
     background-color: bisque;
 }
+
+header {
+    margin: 2rem;
+    padding: 2rem;
+    background-color: aqua;
+}
